@@ -65,6 +65,10 @@ IEEE Transactions on Green Communications and Networking ([IEEE TGCN](https://ie
 Hui Liu, Weidong Guo, **Yige Chen**, and Xiangyang Li.
 2022 Conference on Empirical Methods in Natural Language Processing ([EMNLP](https://aclanthology.org/2022.emnlp-main.338/)), Abu Dhabi, December 2022.<small>
 
+* <small>**<font color="#5b9bd5">[SecureComm'22]</font>Cost-Effective Malware Classification Based on Deep Active Learning.**  
+Qian Qiang, **Yige Chen**, Yang Hu, Tianning Zang, Mian Cheng, Quanbo Pan, Yu Ding, Zisen Qi.
+18th EAI International Conference on Security and Privacy in Communication Networks ([SecureComm](https://link.springer.com/chapter/10.1007/978-3-031-25538-0_12)), Kansas City, USA, December 2022.<small>
+
 * <small>**<font color="#5b9bd5">[SANER'22]</font>BinMLM: Binary Authorship Verification with Flow-aware Mixture-of-Shared Language Model.**  
 Qige Song, Yongzheng Zhang, Linshu Ouyang, **Yige Chen**.
 2022 IEEE International Conference on Software Analysis, Evolution and Reengineering ([SANER](https://ieeexplore.ieee.org/abstract/document/9825799)), Honolulu, HI, USA, July 2022.<small>
