@@ -35,12 +35,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 
-<h2 id="news">News!</h2>
-* <small> 11/2019: One full paper accepted to AAAI 2020!</small>
-* <small> 11/2019: One full paper accepted to ICICS 2019!</small>
-* <small> 09/2019: The [networking conference statistics](/conf-stat) is live!</small>
-* <small> 07/2019: One full paper accepted to ICNP 2019!</small>
-
 <h2 id="research">Research</h2>
 <small> Hi, I am Yige Chen, a Lecturer at [College of Computer Science and Artificial Intelligence, Wenzhou University](http://ai.wzu.edu.cn/). I received Ph.D. degree in Computer Software and Theory from [Institute of Information Engineering, Chinese Academy of Sciences](http://www.iie.ac.cn/), China. I received my Bachelor's degree in Information Security from [Xidian University](https://www.xidian.edu.cn/), China.</small>
 <small>My research interests are primarily in the area of Network Traffic Analysis.</small>
@@ -55,6 +49,31 @@ B.S. in Information Security
 09/2013 - 06/2017<small>
 
 <h2 id="publication">Publication</h2>
+* <small>**<font color="#5b9bd5">[TIFS'24]</font>MPAF: Encrypted Traffic Classification With Multi-Phase Attribute Fingerprint.**  
+**Yige Chen**, Yipeng Wang.
+IEEE Transactions on Information Forensics and Security ([IEEE TIFS](https://ieeexplore.ieee.org/document/10599293)), vol. 19, pp. 7091-7105, 2024.<small>
+
+* <small>**<font color="#5b9bd5">[CollaborateCom'24]</font>IoT-ILDI: Incremental Learning for Device Identification in IoT.**  
+Xiaoshuang Li, **Yige Chen***, Zhenzhou Tang.
+20th EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing ([CollaborateCom](https://collaboratecom.eai-conferences.org/2024/)), Wuzhen, China, November 2024.<small>
+
+* <small>**<font color="#5b9bd5">[TGCN'23]</font>A Multi-Perspective Feature Approach to Few-Shot Classification of IoT Traffic.**  
+Xiaotian Ma, Yipeng Wang, Yingxu Lai, Wenxu Jia, Zijian Zhao, Huijie He, **Yige Chen**.
+IEEE Transactions on Green Communications and Networking ([IEEE TGCN](https://ieeexplore.ieee.org/abstract/document/10107789)), vol. 7, no. 4, pp. 2052-2066, Dec. 2023.<small>
+
+* <small>**<font color="#5b9bd5">[EMNLP'22]</font>Contrastive Learning enhanced Author-Style Headline Generation.**  
+Hui Liu, Weidong Guo, **Yige Chen**, and Xiangyang Li.
+2022 Conference on Empirical Methods in Natural Language Processing ([EMNLP](https://aclanthology.org/2022.emnlp-main.338/)), Abu Dhabi, December 2022.<small>
+
+* <small>**<font color="#5b9bd5">[SANER'22]</font>BinMLM: Binary Authorship Verification with Flow-aware Mixture-of-Shared Language Model.**  
+Qige Song, Yongzheng Zhang, Linshu Ouyang, **Yige Chen**.
+2022 IEEE International Conference on Software Analysis, Evolution and Reengineering ([SANER](https://ieeexplore.ieee.org/abstract/document/9825799)), Honolulu, HI, USA, July 2022.<small>
+
+* <small>**<font color="#5b9bd5">[IoTJ'22]</font>Inter-BIN: Interaction-Based Cross-Architecture IoT Binary Similarity Comparison.**  
+**Yige Chen**, Tianning Zang, Yongzheng Zhang, Yuan Zhou, Peng Yang.
+IEEE Internet of Things Journal ([IEEE IoTJ](https://ieeexplore.ieee.org/abstract/document/9764817)), vol. 9, no. 20, pp. 20018-20033, 15 Oct.15, 2022.<small>
+
+
 * <small>**<font color="#5b9bd5">[CollaborateCom'21]</font>Mobile Encrypted Traffic Classification Based on Message Type Inference.**  
 **Yige Chen**, Tianning Zang, Yongzheng Zhang, Yuan Zhou, Peng Yang.
 17th EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing ([CollaborateCom](https://collaboratecom.eai-conferences.org/2021/)), Virturl, China, October 2021.<small>
