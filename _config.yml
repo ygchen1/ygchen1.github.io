@@ -11,10 +11,10 @@ title                    : "Yige Chen"
 title_separator          : "-"
 name                     : &name "Yige Chen"
 description              : &description "personal description"
-url                      : https://yigechen1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ygchen1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url                      : http://192.168.110.79 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yigechen1/yigechen1.github.io"
+repository               : "ygchen1/ygchen1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -88,7 +88,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=WBO8MpQAAAAJ&hl=en"
-  email            : "chenyige@iie.ac.cn, yigechen01@gmail.com"
+  email            : "ygchen@wzu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yigechen1"
+  github           : "ygchen1"
   google_plus      :
   keybase          :
   instagram        :
@@ -256,7 +256,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
