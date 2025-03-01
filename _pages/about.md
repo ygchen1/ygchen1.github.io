@@ -102,10 +102,6 @@ The 27th IEEE International Conference on Network Protocols ([Link](https://icnp
 Linshu Ouyang, Yongzheng Zhang, Hui Liu, **Yige Chen**, Yipeng Wang.
 The 29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence ([Link](https://www.ijcai20.org/)), Japan, January 2021. <small>
 
-* <small>**<font color="#5b9bd5">[ICICS'19]</font> DLchain: a Covert Channel over Blockchain based on Dynamic Labels.**  
+* <small>**<font color="#5b9bd5">[ICICS'19]</font> DLchain: a Covert Channel over Blockchain based on Dynamic Labels.** [[Link](https://link.springer.com/chapter/10.1007/978-3-030-41579-2_47)]
 Jing Tian, Gaopeng Gou, Chang Liu, **Yige Chen**, Gang Xiong, Zhen Li.  
-The 2019 International Conference on Information and Communications Security ([Link](http://www.icics.cn/)), Beijing, China, December 2019. Full paper acceptance rate: 48/199 = 24.1%.<small>
-
-* <small>**<font color="#5b9bd5">[ICT'20]</font> A Multi-feature-based Approach to Malicious Domain Name Identification from DNS Traffic.**  
-Chen Zhao, Yongzheng Zhang, Tianning Zang, **Yige Chen**, Yipeng Wang.  
-27th International Conference on Telecommunications ([Link](http://ict-20.org/)), Bali, Indonesia, October 2020.<small>
+The 2019 International Conference on Information and Communications Security, Beijing, China, December 2019. Full paper acceptance rate: 48/199 = 24.1%.<small>
