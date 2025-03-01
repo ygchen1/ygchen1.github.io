@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "个人信息"
-    url: /#about
+    url: /
   - title: "科学研究"
     url: /research/
   - title: "科研团队"
