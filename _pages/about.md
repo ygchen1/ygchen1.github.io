@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 
-<h2 id="research">Research</h2>
+<h2 id="about">About</h2>
 <small> Hi, I am Yige Chen, a Lecturer at [College of Computer Science and Artificial Intelligence, Wenzhou University](http://ai.wzu.edu.cn/). I received Ph.D. degree in Computer Software and Theory from [Institute of Information Engineering, Chinese Academy of Sciences](http://www.iie.ac.cn/), China. I received my Bachelor's degree in Information Security from [Xidian University](https://www.xidian.edu.cn/), China.</small>
 <small>My research interests are primarily in the area of Network Traffic Analysis.</small>
 
