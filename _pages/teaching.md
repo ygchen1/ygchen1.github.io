@@ -31,18 +31,6 @@ table th:nth-of-type(3) {
 
 ### 2024-2025学年
 
-<style>
-table th:first-of-type {
-    width: 20%;
-}
-table th:nth-of-type(2) {
-    width: 40%;
-}
-table th:nth-of-type(3) {
-    width: 20%;
-}
-</style>
-
 | 学期 | 班级 | 课程 |
 | :------: | :------ | :--------------- |
 | 2024-2025-1 | 24计算机 | 高级计算机网络 |
@@ -50,18 +38,6 @@ table th:nth-of-type(3) {
 ## 本科生教学
 
 ### 2024-2025学年
-
-<style>
-table th:first-of-type {
-    width: 2cm;
-}
-table th:nth-of-type(2) {
-    width: 16cm;
-}
-table th:nth-of-type(3) {
-    width: 4cm;
-}
-</style>
 
 | 学期 | 班级 | 课程 |
 | :------: | :------ | :--------------- |
