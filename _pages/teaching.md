@@ -10,13 +10,13 @@ redirect_from:
 
 <style>
 table th:first-of-type {
-    width: 2cm;
+    width: 20%;
 }
 table th:nth-of-type(2) {
-    width: 16cm;
+    width: 40%;
 }
 table th:nth-of-type(3) {
-    width: 4cm;
+    width: 20%;
 }
 </style>
 
@@ -30,6 +30,18 @@ table th:nth-of-type(3) {
 ## 教学课程
 
 ### 2024-2025学年
+
+<style>
+table th:first-of-type {
+    width: 2cm;
+}
+table th:nth-of-type(2) {
+    width: 16cm;
+}
+table th:nth-of-type(3) {
+    width: 4cm;
+}
+</style>
 
 | 学期 | 班级 | 课程 |
 | :------: | :------ | :--------------- |
@@ -51,5 +63,4 @@ table th:nth-of-type(3) {
 | 学期 | 班级 | 课程 |
 | :------: | :------ | :--------------- |
 | 2022-2023-1 | 21网工 | Python程序设计 |
-| 2022-2023-1 | 22计算机 | Python应用开发综合实践 |
 | 2022-2023-2 | 22网工 | 数学建模 |
