@@ -7,9 +7,14 @@ redirect_from:
 ---
 
 <h2 >研究课题</h2>
-* <small>**<font color="#5b9bd5">[TIFS'24]</font>MPAF: Encrypted Traffic Classification With Multi-Phase Attribute Fingerprint.**  
-**Yige Chen**, Yipeng Wang.
-IEEE Transactions on Information Forensics and Security, vol. 19, pp. 7091-7105, 2024. [[Link](https://doi.org/10.1109/TIFS.2024.3428839)]<small>
+* <small>**浙江省自然科学基金青年项目**  
+面向网络行为识别的加密代理流量指纹构建方法研究, 2024-2026, 在研, 主持.<small>
+
+* <small>**温州市基础性科研项目**  
+面向数据源鲁棒的加密代理流量指纹构建方法研究, 2023-2025, 在研, 主持.<small>
+
+* <small>**浙江省教育厅一般科研项目.**  
+面向网络行为分析的加密代理流量识别方法研究, 2022-2024, 结题, 主持.<small>
 
 <h2 >发表论文</h2>
 * <small>**<font color="#5b9bd5">[TIFS'24]</font>MPAF: Encrypted Traffic Classification With Multi-Phase Attribute Fingerprint.**  
