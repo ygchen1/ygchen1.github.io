@@ -4,8 +4,14 @@ main:
     url: /#research
   - title: "Publication"
     url: /#publication
-  - title: "Networking Conference Statistics"
-    url: /conf-stat
+  - title: "Team"
+    url: /team/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "lab"
+    url: https://inet.wzu.edu.cn/
+# - title: "Networking Conference Statistics"
+#   url: /conf-stat
 #  - title: "CV"
 #    url: /files/cv.pdf
 
