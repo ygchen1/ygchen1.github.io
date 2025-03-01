@@ -1,10 +1,13 @@
 ---
 permalink: /team/
-title: "Team"
+title: "科研团队"
 author_profile: true
 redirect_from: 
   - /team.html
 ---
+
+## 研究方向
+  - 加密流量智能分析
 
 ## 硕士研究生
 

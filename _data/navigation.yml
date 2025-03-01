@@ -1,14 +1,14 @@
 # main links links
 main:
-  - title: "About"
+  - title: "个人信息"
     url: /#about
-  - title: "Publication"
-    url: /#publication
-  - title: "Team"
+  - title: "科学研究"
+    url: /research/
+  - title: "科研团队"
     url: /team/
-  - title: "Teaching"
+  - title: "课程教学"
     url: /teaching/
-  - title: "Lab"
+  - title: "温州市智能网络重点实验室"
     url: https://inet.wzu.edu.cn/
 # - title: "Networking Conference Statistics"
 #   url: /conf-stat
