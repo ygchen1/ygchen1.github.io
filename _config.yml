@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "陈一阁"
   avatar           : "profile_new.png"
-  bio              : "温州大学计算机与人工智能学院"
-  location         : "浙江温州"
+  bio              : "温州大学 计算机与人工智能学院"
+  location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=WBO8MpQAAAAJ&hl=en"
