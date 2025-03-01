@@ -1,6 +1,6 @@
 ---
 permalink: /team/
-title: "学生团队"
+title: ""
 author_profile: true
 redirect_from: 
   - /team.html

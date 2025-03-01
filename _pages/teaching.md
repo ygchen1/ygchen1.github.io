@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/
-title: "教学"
+title: ""
 author_profile: true
 redirect_from: 
   - /teaching.html
