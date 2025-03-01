@@ -8,7 +8,7 @@ main:
     url: /team/
   - title: "Teaching"
     url: /teaching/
-  - title: "lab"
+  - title: "Lab"
     url: https://inet.wzu.edu.cn/
 # - title: "Networking Conference Statistics"
 #   url: /conf-stat
