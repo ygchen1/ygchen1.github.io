@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yige Chen"
+title                    : "陈一阁"
 title_separator          : "-"
-name                     : &name "Yige Chen"
+name                     : &name "陈一阁"
 description              : &description "personal description"
 url                      : https://ygchen1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url                      : http://192.168.110.79 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -81,10 +81,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yige Chen (陈一阁)"
+  name             : "陈一阁"
   avatar           : "profile_new.png"
-  bio              : "Lecturer at College of Computer Science and Artificial Intelligence, Wenzhou University"
-  location         : "Wenzhou, China"
+  bio              : "温州大学计算机与人工智能学院"
+  location         : "浙江温州"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=WBO8MpQAAAAJ&hl=en"
