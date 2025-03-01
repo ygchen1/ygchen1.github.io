@@ -101,6 +101,6 @@ The 27th IEEE International Conference on Network Protocols, Chicago, Illinois, 
 Linshu Ouyang, Yongzheng Zhang, Hui Liu, **Yige Chen**, Yipeng Wang.
 The 29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence, Japan, January 2021. <small>
 
-* <small>**<font color="#5b9bd5">[ICICS'19]</font> DLchain: a Covert Channel over Blockchain based on Dynamic Labels.** [[Link](https://doi.org/10.1007/978-3-030-41579-2_47)]
+* <small>**<font color="#5b9bd5">[ICICS'19]</font> DLchain: a Covert Channel over Blockchain based on Dynamic Labels.** [[Link](https://doi.org/10.1007/978-3-030-41579-2_47)].
 Jing Tian, Gaopeng Gou, Chang Liu, **Yige Chen**, Gang Xiong, Zhen Li.  
 The 2019 International Conference on Information and Communications Security, Beijing, China, December 2019. Full paper acceptance rate: 48/199 = 24.1%.<small>
