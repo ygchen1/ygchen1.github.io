@@ -49,59 +49,58 @@ B.S. in Information Security
 09/2013 - 06/2017<small>
 
 <h2 id="publication">Publication</h2>
-* <small>**<font color="#5b9bd5">[TIFS'24]</font>MPAF: Encrypted Traffic Classification With Multi-Phase Attribute Fingerprint.**  
+* <small>**<font color="#5b9bd5">[TIFS'24]</font>MPAF: Encrypted Traffic Classification With Multi-Phase Attribute Fingerprint.** [[Link](https://doi.org/10.1109/TIFS.2024.3428839)]
 **Yige Chen**, Yipeng Wang.
-IEEE Transactions on Information Forensics and Security ([Link](https://ieeexplore.ieee.org/document/10599293)), vol. 19, pp. 7091-7105, 2024.<small>
+IEEE Transactions on Information Forensics and Security, vol. 19, pp. 7091-7105, 2024.<small>
 
-* <small>**<font color="#5b9bd5">[CollaborateCom'24]</font>IoT-ILDI: Incremental Learning for Device Identification in IoT.**  
+* <small>**<font color="#5b9bd5">[CollaborateCom'24]</font>IoT-ILDI: Incremental Learning for Device Identification in IoT.** [[Link]()]
 Xiaoshuang Li, **Yige Chen***, Zhenzhou Tang.
-20th EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing ([Link](https://collaboratecom.eai-conferences.org/2024/)), Wuzhen, China, November 2024.<small>
+20th EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing, Wuzhen, China, November 2024.<small>
 
-* <small>**<font color="#5b9bd5">[TGCN'23]</font>A Multi-Perspective Feature Approach to Few-Shot Classification of IoT Traffic.**  
+* <small>**<font color="#5b9bd5">[TGCN'23]</font>A Multi-Perspective Feature Approach to Few-Shot Classification of IoT Traffic.** [[Link](https://doi.org/10.1109/TGCN.2023.3269842)]
 Xiaotian Ma, Yipeng Wang, Yingxu Lai, Wenxu Jia, Zijian Zhao, Huijie He, **Yige Chen**.
-IEEE Transactions on Green Communications and Networking ([Link](https://ieeexplore.ieee.org/abstract/document/10107789)), vol. 7, no. 4, pp. 2052-2066, Dec. 2023.<small>
+IEEE Transactions on Green Communications and Networking, vol. 7, no. 4, pp. 2052-2066, Dec. 2023.<small>
 
-* <small>**<font color="#5b9bd5">[EMNLP'22]</font>Contrastive Learning enhanced Author-Style Headline Generation.**  
+* <small>**<font color="#5b9bd5">[EMNLP'22]</font>Contrastive Learning enhanced Author-Style Headline Generation.** [[Link](https://doi.org/10.18653/v1/2022.emnlp-main.338)]
 Hui Liu, Weidong Guo, **Yige Chen**, and Xiangyang Li.
-2022 Conference on Empirical Methods in Natural Language Processing ([Link](https://aclanthology.org/2022.emnlp-main.338/)), Abu Dhabi, December 2022.<small>
+2022 Conference on Empirical Methods in Natural Language Processing, Abu Dhabi, December 2022.<small>
 
-* <small>**<font color="#5b9bd5">[SecureComm'22]</font>Cost-Effective Malware Classification Based on Deep Active Learning.**  
+* <small>**<font color="#5b9bd5">[SecureComm'22]</font>Cost-Effective Malware Classification Based on Deep Active Learning.** [[Link](https://doi.org/10.1007/978-3-031-25538-0_12)]
 Qian Qiang, **Yige Chen**, Yang Hu, Tianning Zang, Mian Cheng, Quanbo Pan, Yu Ding, Zisen Qi.
-18th EAI International Conference on Security and Privacy in Communication Networks ([Link](https://link.springer.com/chapter/10.1007/978-3-031-25538-0_12)), Kansas City, USA, December 2022.<small>
+18th EAI International Conference on Security and Privacy in Communication Networks, Kansas City, USA, December 2022.<small>
 
-* <small>**<font color="#5b9bd5">[SANER'22]</font>BinMLM: Binary Authorship Verification with Flow-aware Mixture-of-Shared Language Model.**  
+* <small>**<font color="#5b9bd5">[SANER'22]</font>BinMLM: Binary Authorship Verification with Flow-aware Mixture-of-Shared Language Model.** [[Link](https://doi.org/10.1109/SANER53432.2022.00120)]
 Qige Song, Yongzheng Zhang, Linshu Ouyang, **Yige Chen**.
-2022 IEEE International Conference on Software Analysis, Evolution and Reengineering ([Link](https://ieeexplore.ieee.org/abstract/document/9825799)), Honolulu, HI, USA, July 2022.<small>
+2022 IEEE International Conference on Software Analysis, Evolution and Reengineering, Honolulu, HI, USA, July 2022.<small>
 
-* <small>**<font color="#5b9bd5">[IoTJ'22]</font>Inter-BIN: Interaction-Based Cross-Architecture IoT Binary Similarity Comparison.**  
+* <small>**<font color="#5b9bd5">[IoTJ'22]</font>Inter-BIN: Interaction-Based Cross-Architecture IoT Binary Similarity Comparison.** [[Link](https://doi.org/10.1109/JIOT.2022.3170927)]
 Qige Song, Yongzheng Zhang, Binglai Wang, **Yige Chen**.
-IEEE Internet of Things Journal ([Link](https://ieeexplore.ieee.org/abstract/document/9764817)), vol. 9, no. 20, pp. 20018-20033, 15 Oct.15, 2022.<small>
+IEEE Internet of Things Journal, vol. 9, no. 20, pp. 20018-20033, 15 Oct.15, 2022.<small>
 
-
-* <small>**<font color="#5b9bd5">[CollaborateCom'21]</font>Mobile Encrypted Traffic Classification Based on Message Type Inference.**  
+* <small>**<font color="#5b9bd5">[CollaborateCom'21]</font>Mobile Encrypted Traffic Classification Based on Message Type Inference.** [[Link](https://doi.org/10.1007/978-3-030-92635-9_8)]
 **Yige Chen**, Tianning Zang, Yongzheng Zhang, Yuan Zhou, Peng Yang.
-17th EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing ([Link](https://collaboratecom.eai-conferences.org/2021/)), Virturl, China, October 2021.<small>
+17th EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing, Virturl, China, October 2021.<small>
 
-* <small>**<font color="#5b9bd5">[CollaborateCom'21]</font>Inspector: A Semantics-Driven Approach to Automatic Protocol Reverse Engineering.**  
+* <small>**<font color="#5b9bd5">[CollaborateCom'21]</font>Inspector: A Semantics-Driven Approach to Automatic Protocol Reverse Engineering.** [[Link](https://doi.org/10.1007/978-3-030-92635-9_21)]
 **Yige Chen**, Tianning Zang, Yongzheng Zhang, Yuan Zhou, Peng Yang, Yipeng Wang.
-17th EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing ([Link](https://collaboratecom.eai-conferences.org/2021/)), Virturl, China, October 2021.<small>
+17th EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing, Virturl, China, October 2021.<small>
 
-* <small>**<font color="#5b9bd5">[ICC'21]</font>Incremental Learning for Mobile Encrypted Traffic Classification.**  
+* <small>**<font color="#5b9bd5">[ICC'21]</font>Incremental Learning for Mobile Encrypted Traffic Classification.** [[Link](https://doi.org/10.1109/ICC42927.2021.9500619)] 
 **Yige Chen**, Tianning Zang, Yongzheng Zhang, Yuan Zhou, Linshu Ouyang, Peng Yang.  
-ICC 2021-2021 IEEE International Conference on Communications ([Link](https://icc2021.ieee-icc.org/)), Virturl, Montreal, June 2021. ([slides](./files/icc2021-incremental.pdf))<small>
+ICC 2021-2021 IEEE International Conference on Communications, Virturl, Montreal, June 2021.<small>
 
-* <small>**<font color="#5b9bd5">[AAAI'20]</font> Joint Character Embedding and Adversarial Stability Training to Defend Adversarial Text.**  
+* <small>**<font color="#5b9bd5">[AAAI'20]</font> Joint Character Embedding and Adversarial Stability Training to Defend Adversarial Text.** [[Link](https://doi.org/10.1609/aaai.v34i05.6356)]
 Hui Liu, Yongzheng Zhang, Yipeng Wang, Zheng Lin, **Yige Chen**.  
-The Thirty-Fourth AAAI Conference on Artificial Intelligence ([Link](https://aaai.org/Conferences/AAAI-20/)), New York, New York, USA, February 2020. Full paper acceptance rate: 1591/7737 = 20.6%.<small>
+The Thirty-Fourth AAAI Conference on Artificial Intelligence, New York, New York, USA, February 2020. Full paper acceptance rate: 1591/7737 = 20.6%.<small>
 
-* <small>**<font color="#5b9bd5">[ICNP'19]</font> Rethinking Encrypted Traffic Classification: A Multi-Attribute Associated Fingerprint Approach.**  
+* <small>**<font color="#5b9bd5">[ICNP'19]</font> Rethinking Encrypted Traffic Classification: A Multi-Attribute Associated Fingerprint Approach.** [[Link](https://doi.org/10.1109/ICNP.2019.8888043)]
 **Yige Chen**, Tianning Zang, Yongzheng Zhang, Yuan Zhou, Yipeng Wang.  
-The 27th IEEE International Conference on Network Protocols ([Link](https://icnp19.cs.ucr.edu/)), Chicago, Illinois, USA, October 2019. Full paper acceptance rate: 29/212 = 13.7%. ([pdf](https://icnp19.cs.ucr.edu/proceedings/MainConference/FullPapers/icnp2019-final23.pdf)) ([slides](./files/icnp2019-rethinking.pdf))<small>
+The 27th IEEE International Conference on Network Protocols, Chicago, Illinois, USA, October 2019. Full paper acceptance rate: 29/212 = 13.7%.<small>
 
-* <small>**<font color="#5b9bd5">[IJCAI-PRICAI'20]</font> Gated POS-Level Language Model for Authorship Verification.**  
+* <small>**<font color="#5b9bd5">[IJCAI-PRICAI'20]</font> Gated POS-Level Language Model for Authorship Verification.** [[Link](https://doi.org/10.24963/ijcai.2020/557)]
 Linshu Ouyang, Yongzheng Zhang, Hui Liu, **Yige Chen**, Yipeng Wang.
-The 29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence ([Link](https://www.ijcai20.org/)), Japan, January 2021. <small>
+The 29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence, Japan, January 2021. <small>
 
-* <small>**<font color="#5b9bd5">[ICICS'19]</font> DLchain: a Covert Channel over Blockchain based on Dynamic Labels.** [[Link](https://link.springer.com/chapter/10.1007/978-3-030-41579-2_47)]
+* <small>**<font color="#5b9bd5">[ICICS'19]</font> DLchain: a Covert Channel over Blockchain based on Dynamic Labels.** [[Link](https://doi.org/10.1007/978-3-030-41579-2_47)]
 Jing Tian, Gaopeng Gou, Chang Liu, **Yige Chen**, Gang Xiong, Zhen Li.  
 The 2019 International Conference on Information and Communications Security, Beijing, China, December 2019. Full paper acceptance rate: 48/199 = 24.1%.<small>
