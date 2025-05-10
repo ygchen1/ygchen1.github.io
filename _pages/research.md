@@ -19,7 +19,8 @@ redirect_from:
 <h2 >发表论文</h2>
 * <small>**<font color="#5b9bd5">[TIFS'24]</font>MPAF: Encrypted Traffic Classification With Multi-Phase Attribute Fingerprint.**  
 **Yige Chen**, Yipeng Wang.
-IEEE Transactions on Information Forensics and Security, vol. 19, pp. 7091-7105, 2024. [[Link](https://doi.org/10.1109/TIFS.2024.3428839)]<small>
+IEEE Transactions on Information Forensics and Security, vol. 19, pp. 7091-7105, 2024. [[Link](https://doi.org/10.1109/TIFS.2024.3428839)]
+(CCF-A, SCI-I)<small>
 
 * <small>**<font color="#5b9bd5">[CollaborateCom'24]</font>IoT-ILDI: Incremental Learning for Device Identification in IoT.**  
 Xiaoshuang Li, **Yige Chen***, Zhenzhou Tang.
