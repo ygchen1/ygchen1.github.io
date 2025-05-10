@@ -17,7 +17,7 @@ redirect_from:
 浙江省教育厅一般科研项目, 2022-2024, 结题, 主持.<small>
 
 <h2 >发表论文</h2>
-* <small>**<font color="#5b9bd5">[TIFS'24]</font>MPAF: Encrypted Traffic Classification With Multi-Phase Attribute Fingerprint.(CCF-A, SCI-I)**  
+* <small>**<font color="#5b9bd5">[TIFS'24](CCF-A, SCI-I)</font>MPAF: Encrypted Traffic Classification With Multi-Phase Attribute Fingerprint.**  
 **Yige Chen**, Yipeng Wang.
 IEEE Transactions on Information Forensics and Security, vol. 19, pp. 7091-7105, 2024. [[Link](https://doi.org/10.1109/TIFS.2024.3428839)]
 <small>
@@ -70,6 +70,6 @@ The 27th IEEE International Conference on Network Protocols, Chicago, Illinois, 
 Linshu Ouyang, Yongzheng Zhang, Hui Liu, **Yige Chen**, Yipeng Wang.
 The 29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence, Japan, January 2021. [[Link](https://doi.org/10.24963/ijcai.2020/557)]<small>
 
-* <small>**<font color="#5b9bd5">[ICICS'19]</font> DLchain: a Covert Channel over Blockchain based on Dynamic Labels.**  
+* <small>**<font color="#5b9bd5">[ICICS'19]</font> DLchain: a Covert Channel over Blockchain based on Dynamic Labels.(CCF-C)**  
 Jing Tian, Gaopeng Gou, Chang Liu, **Yige Chen**, Gang Xiong, Zhen Li.  
 The 2019 International Conference on Information and Communications Security, Beijing, China, December 2019. Full paper acceptance rate: 48/199 = 24.1%. [[Link](https://doi.org/10.1007/978-3-030-41579-2_47)]<small>
