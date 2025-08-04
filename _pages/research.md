@@ -20,6 +20,11 @@ redirect_from:
 浙江省教育厅一般科研项目, 2022-2024, 结题, 主持.<small>
 
 <h2 >发表论文</h2>
+* <small>**<font color="#5b9bd5">[ICICS'25] (CCF-C) </font>SPTC: Signature-based Cross-protocol Encrypted Proxy Traffic Classification Approach.**  
+Huajie Jia, **Yige Chen***, Zhengzhou Tang..  
+IEEE Transactions on Information Forensics and Security, 2025.
+<small>
+
 * <small>**<font color="#5b9bd5">[TIFS'24] (CCF-A, SCI-I) </font>MPAF: Encrypted Traffic Classification With Multi-Phase Attribute Fingerprint.**  
 **Yige Chen**, Yipeng Wang.  
 IEEE Transactions on Information Forensics and Security, vol. 19, pp. 7091-7105, 2024. [[Link](https://doi.org/10.1109/TIFS.2024.3428839)]
