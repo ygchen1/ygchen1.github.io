@@ -22,7 +22,7 @@ redirect_from:
 <h2 >发表论文</h2>
 * <small>**<font color="#5b9bd5">[ICICS'25] (CCF-C) </font>SPTC: Signature-based Cross-protocol Encrypted Proxy Traffic Classification Approach.**  
 Huajie Jia, **Yige Chen***, Zhengzhou Tang..  
-IEEE Transactions on Information Forensics and Security, 2025.
+The 2025 International Conference on Information and Communications Security (ICICS 2025), Nanjing, China, October 2025. [[Link](https://www.icics2025.org/index.html)]
 <small>
 
 * <small>**<font color="#5b9bd5">[TIFS'24] (CCF-A, SCI-I) </font>MPAF: Encrypted Traffic Classification With Multi-Phase Attribute Fingerprint.**  
@@ -32,7 +32,7 @@ IEEE Transactions on Information Forensics and Security, vol. 19, pp. 7091-7105,
 
 * <small>**<font color="#5b9bd5">[CollaborateCom'24] (CCF-C) </font>IoT-ILDI: Incremental Learning for Device Identification in IoT.**  
 Xiaoshuang Li, **Yige Chen***, Zhenzhou Tang.  
-20th EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing, Wuzhen, China, November 2024.<small>
+20th EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing, Wuzhen, China, November 2024. [[Link](https://doi.org/10.1007/978-3-031-93254-0_14)]<small>
 
 * <small>**<font color="#5b9bd5">[TGCN'23] (SCI-II) </font>A Multi-Perspective Feature Approach to Few-Shot Classification of IoT Traffic.**  
 Xiaotian Ma, Yipeng Wang, Yingxu Lai, Wenxu Jia, Zijian Zhao, Huijie He, **Yige Chen**.  
