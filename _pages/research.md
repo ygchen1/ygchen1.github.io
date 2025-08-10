@@ -21,7 +21,7 @@ redirect_from:
 
 <h2 >发表论文</h2>
 * <small>**<font color="#5b9bd5">[ICICS'25] (CCF-C) </font>SPTC: Signature-based Cross-protocol Encrypted Proxy Traffic Classification Approach.**  
-Huajie Jia, **Yige Chen***, Zhengzhou Tang..  
+Huajie Jia, **Yige Chen***, Zhengzhou Tang.  
 The 2025 International Conference on Information and Communications Security (ICICS 2025), Nanjing, China, October 2025. [[Link](https://www.icics2025.org/index.html)]
 <small>
 
