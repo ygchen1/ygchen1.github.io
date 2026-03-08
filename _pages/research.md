@@ -27,7 +27,7 @@ IEEE Transactions on Information Forensics and Security, vol. 21, pp. 490-505, 2
 
 * <small>**<font color="#5b9bd5">[ICICS'25] (CCF-C) </font>SPTC: Signature-based Cross-protocol Encrypted Proxy Traffic Classification Approach.**  
 Huajie Jia, **Yige Chen***, Zhengzhou Tang.  
-The 2025 International Conference on Information and Communications Security (ICICS 2025), Nanjing, China, October 2025. [[Link](https://www.icics2025.org/index.html)]
+The 2025 International Conference on Information and Communications Security (ICICS 2025), Nanjing, China, October 2025. [[Link](https://doi.org/10.1007/978-981-95-3537-8_25)]
 <small>
 
 * <small>**<font color="#5b9bd5">[TIFS'24] (CCF-A, SCI-I) </font>MPAF: Encrypted Traffic Classification With Multi-Phase Attribute Fingerprint.**  
