@@ -21,7 +21,7 @@ redirect_from:
 
 <h2 >发表论文</h2>
 * <small>**<font color="#5b9bd5">[TIFS'26] (CCF-A, SCI-I) </font>EO-EPTC: End-to-End Original Traffic-Based Encrypted Proxy Traffic Classification Framework.**  
-**Yige Chen***, Huajie Jia, Zhengzhou Tang, Yipeng Wang; Hui Liu.  
+**Yige Chen**, Huajie Jia*, Zhengzhou Tang, Yipeng Wang; Hui Liu.  
 IEEE Transactions on Information Forensics and Security, vol. 21, pp. 490-505, 2026. [[Link](https://doi.org/10.1109/TIFS.2025.3646874)]
 <small>
 
